@@ -1,4 +1,4 @@
 **Pemrograman-Lanjut**
 
- * 18081010001 [faisal](https://github.com/JuukyoKai/Pemrograman-Lanjut)
+ * [18081010001 Mohammad Faisal Riftiarrasyid](https://github.com/JuukyoKai/Pemrograman-Lanjut)
 
